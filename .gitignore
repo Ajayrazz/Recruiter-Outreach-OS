@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/
+logs/
+*.db
+*.sqlite*
+client_secret*.json
+token*.json
+.pytest_cache/
+seed/profile.json
